@@ -39,7 +39,7 @@ Repository structure:
     ├── listings.csv                  # data set sistings
     ├── reviews.csv                   # data set reviews
     ├── calendar.csv                  # data set calendar
-    ├── Prj1_SeattleAirBnB_1.ipynb    # Jupyter notebook
+    ├── Prj1_SeattleAirBnB_1.ipynb    # Jupyter notebook with the analysis
     
 There is 1 notebook available here to showcase work related to the above questions. Markdown cells were used to assist in walking through the thought process for individual steps.  
 
