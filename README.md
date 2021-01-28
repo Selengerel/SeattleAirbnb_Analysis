@@ -25,7 +25,7 @@ Following libraries are used in python 3.6
 For this project, I was interested in using Airbnb [Seattle Open Data from Kaggle](https://www.kaggle.com/airbnb/seattle) from Jan 2016 to Jan 2017 to answer following business questions:
 
 1. Which kinds of accomodations are listed and how do they make up the price?
-2. How big is the context between number of reviewer comments and the popularity of the objects?
+2. How big is the connection between number of reviewer comments and the popularity of the objects?
 3. Which accommodations of which host were actually booked and which ones generated the most revenue?
 
 
@@ -37,7 +37,7 @@ Repository structure:
     ├── listings.csv                  # data set sistings
     ├── reviews.csv                   # data set reviews
     ├── calendar.csv                  # data set calendar
-    ├── Prj1_SeattleAirbnb_1.ipynb    # Jupyter notebook with the analysis
+    ├── Prj1_Seattle-Airbnb_Analysis.ipynb    # Jupyter notebook with the analysis
     
 There is 1 jupyter notebook available here to show the analysis related to the above questions. Markdown cells and comments were used to assist in walking through the steps.  
 
