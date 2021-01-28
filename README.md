@@ -2,21 +2,23 @@
 
 ### Table of Contents
 
-1. [Libraries and Installation](#installation)
+1. [Installation and Libraries](#installation)
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
 4. [Results](#results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
-## Libraries and Installation <a name="installation"></a>
+## Installation and Libraries  <a name="installation"></a>
 
+Anaconda installation was required to have Jupyter notebook with python 3.6.
 
-- numpy
-- pandas
-- matplotlib.pyplot
-- seaborn
-- missingno
+Following libraries are used in python 3.6
 
+- numpy                 `import numpy as np`
+- pandas                `import pandas as pd`
+- matplotlib.pyplot     `import matplotlib.pyplot as plt`
+- seaborn               `import seaborn as sns`
+- missingno             `import missingno as msno`
 
 ## Project Motivation<a name="motivation"></a>
 
@@ -32,16 +34,16 @@ To clone the repository use: git clone
 ## File Descriptions <a name="files"></a>
 Repository structure:
 
-    seattle_airbnb_exploratory_data_analysis/
-    ├── README.md
-    ├── calendar.csv
-    ├── listings.csv
-    ├── reviews.csv
-    ├── Prj1_SeattleAirBnB_1.ipynb
+    seattle_airbnb_exploratory_data_analysis/  # folder
+    ├── README.md                              # read.me file 
+    ├── listings.csv                           # data set sistings
+    ├── reviews.csv                            # data set reviews
+    ├── calendar.csv                           # data set calendar
+    ├── Prj1_SeattleAirBnB_1.ipynb             # Jupyter notebook
     
 There is 1 notebook available here to showcase work related to the above questions. Markdown cells were used to assist in walking through the thought process for individual steps.  
 
-There 3 csv files used for the analysis are downloaded from kaggle.
+The 3 csv files used for the analysis are downloaded from kaggle.
 
 ## Results<a name="results"></a>
 
