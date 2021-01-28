@@ -39,7 +39,7 @@ Repository structure:
     ├── calendar.csv                  # data set calendar
     ├── Prj1_SeattleAirBnB_1.ipynb    # Jupyter notebook with the analysis
     
-There is 1 jupyter notebook available here to show the analysis related to the above questions. Markdown cells and comments were used to assist in walking through the thought process for individual steps.  
+There is 1 jupyter notebook available here to show the analysis related to the above questions. Markdown cells and comments were used to assist in walking through the steps.  
 
 The 3 csv files used for the analysis are downloaded from kaggle.
 
