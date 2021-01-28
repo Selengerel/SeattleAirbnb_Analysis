@@ -10,7 +10,7 @@
 
 ## Installation and Libraries  <a name="installation"></a>
 
-Anaconda installation was required to have Jupyter notebook with python 3.6.
+Anaconda installation is required to have Jupyter notebook with python 3.6.
 
 Following libraries are used in python 3.6
 
