@@ -1,4 +1,4 @@
-# SeattleAirBnB_Analysis
+# Seattle Airbnb Analysis
 
 ### Table of Contents
 
@@ -37,7 +37,7 @@ Repository structure:
     ├── listings.csv                  # data set sistings
     ├── reviews.csv                   # data set reviews
     ├── calendar.csv                  # data set calendar
-    ├── Prj1_SeattleAirBnB_1.ipynb    # Jupyter notebook with the analysis
+    ├── Prj1_SeattleAirbnb_1.ipynb    # Jupyter notebook with the analysis
     
 There is 1 jupyter notebook available here to show the analysis related to the above questions. Markdown cells and comments were used to assist in walking through the steps.  
 
