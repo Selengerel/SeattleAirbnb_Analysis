@@ -34,12 +34,12 @@ To clone the repository use: git clone
 ## File Descriptions <a name="files"></a>
 Repository structure:
 
-    seattle_airbnb_exploratory_data_analysis/  # folder
-    ├── README.md                              # read.me file 
-    ├── listings.csv                           # data set sistings
-    ├── reviews.csv                            # data set reviews
-    ├── calendar.csv                           # data set calendar
-    ├── Prj1_SeattleAirBnB_1.ipynb             # Jupyter notebook
+    SeattleAirBnB_Analysis/           # folder
+    ├── README.md                     # read.me file 
+    ├── listings.csv                  # data set sistings
+    ├── reviews.csv                   # data set reviews
+    ├── calendar.csv                  # data set calendar
+    ├── Prj1_SeattleAirBnB_1.ipynb    # Jupyter notebook
     
 There is 1 notebook available here to showcase work related to the above questions. Markdown cells were used to assist in walking through the thought process for individual steps.  
 
