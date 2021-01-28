@@ -32,12 +32,12 @@ For this project, I was interested in using Airbnb [Seattle Open Data from Kaggl
 ## File Descriptions <a name="files"></a>
 Repository structure:
 
-    SeattleAirBnB_Analysis/           # folder
-    ├── README.md                     # read.me file 
-    ├── listings.csv                  # data set sistings
-    ├── reviews.csv                   # data set reviews
-    ├── calendar.csv                  # data set calendar
-    ├── Prj1_Seattle-Airbnb_Analysis.ipynb    # Jupyter notebook with the analysis
+    SeattleAirBnB_Analysis/                  # folder
+    ├── README.md                            # read.me file 
+    ├── listings.csv                         # data set sistings
+    ├── reviews.csv                          # data set reviews
+    ├── calendar.csv                         # data set calendar
+    ├── Prj1_Seattle-Airbnb_Analysis.ipynb   # Jupyter notebook with the analysis
     
 There is 1 jupyter notebook available here to show the analysis related to the above questions. Markdown cells and comments were used to assist in walking through the steps.  
 
