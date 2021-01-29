@@ -10,9 +10,7 @@
 
 ## Installation and Libraries  <a name="installation"></a>
 
-Anaconda installation is required to have Jupyter notebook with python 3.6.
-
-Following libraries are used in python 3.6
+You will need the standard data science libraries found in the Anaconda distribution of Python 3.6:
 
 - numpy                 `import numpy as np`
 - pandas                `import pandas as pd`
