@@ -39,7 +39,7 @@ Repository structure:
     
 There is 1 jupyter notebook available here to show the analysis related to the above questions. Markdown cells and comments were used to assist in walking through the steps.  
 
-The 3 csv files used for the analysis are downloaded from kaggle.
+The 3 csv files used for the analysis are downloaded from [kaggle](https://www.kaggle.com/airbnb/seattle).
 
 ## Results<a name="results"></a>
 
