@@ -48,7 +48,7 @@ The 3 csv files used for the analysis are downloaded from [kaggle](https://www.k
 
 ## Results<a name="results"></a>
 
-The main findings of the analysis can be found in the Blog Post available [here](https://).
+The main findings of the analysis can be found in the Blog Post available [here](https://selen-gerel.medium.com/9-insights-about-seattles-airbnb-ec6832df64f).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
