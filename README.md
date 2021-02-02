@@ -16,15 +16,20 @@ You will need the standard data science libraries found in the Anaconda distribu
 - pandas                `import pandas as pd`
 - matplotlib.pyplot     `import matplotlib.pyplot as plt`
 - seaborn               `import seaborn as sns`
-- missingno             `import missingno as msno`
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interested in using Airbnb [Seattle Open Data from Kaggle](https://www.kaggle.com/airbnb/seattle) from Jan 2016 to Jan 2017 to answer following business questions:
+For this project, I was interested in using Airbnb [Seattle Open Data from Kaggle](https://www.kaggle.com/airbnb/seattle) from Jan 2016 to Jan 2017 to answer following questions:
 
-1. Which kinds of accomodations are listed and how do they make up the price?
-2. How big is the connection between number of reviewer comments and the popularity of the objects?
-3. Which accommodations of which host were actually booked and which ones generated the most revenue?
+1.	Which kind of accommodations are listed where and how do they make up the price?
+2.	How is the price progress over the year?
+3.	What time of year is the most popular for bookings?
+4.	Which Neighborhood is the most popular?
+5.	Which of the Seattle’s Top 10 neighbourhoods are the most expensive?
+6.	What are the most mentioned words in the comments?
+7.	Which type of accommodation has the most reviews?
+8.	Which hosts have had the highest availability in the given period?
+9.	Which hosts have the highest estimated revenue, assuming that availability has been fully used?
 
 
 ## File Descriptions <a name="files"></a>
